@@ -1,0 +1,11 @@
+git init - initialise the git repo
+
+git add . - stages all the files
+
+git commit -m "your commit message" -- commits your staged files
+
+git status - tells you the status of files in repo
+
+git reset HEAD <file name> - unstage the file
+
+git checkout --file name - take your file back to how it was in the last commit
