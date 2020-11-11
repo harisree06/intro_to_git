@@ -1,7 +1,0 @@
-Hello .. ! 
-First day with git 
-
-hiiii
-
-How to reset HEAD?
-github link 
